@@ -1,7 +1,7 @@
 
 
 <p align=center>
-	<img width=350 src='./media/img/discortion_logo.svg'/>
+	<img width=300 src='./media/img/discortion_logo.svg'/>
 	<h1 align=center>Discortion</h1>
 </p>
 
